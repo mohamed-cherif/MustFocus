@@ -1,0 +1,25 @@
+{
+  "name": "flappy_bird",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "jquery": "^3.6.4",
+    "npm": "^6.5.0",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-scripts": "^5.0.1",
+    "uuid": "^3.2.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
